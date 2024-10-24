@@ -12,7 +12,7 @@ This project contains a series of Node.js tasks to demonstrate basic concepts an
 ### 2. Simple Web Server
 
 - File: `create-server.js`
-- Description: Creates a server that runs on port 3000 and responds with '<h1>Hello Node!!!!</h1>' when accessed at http://localhost:3000.
+- Description: Creates a server that runs on port 3000 and responds with 'Hello Node!!!!' when accessed at http://localhost:3000.
 
 ### 3. File System Operations
 
